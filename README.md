@@ -25,7 +25,7 @@ Sets up your environment for working with ESP-IDF and ESP-Matter:
 source env.sh
 ```
 
-### install.sh
+### `install.sh`
 
 Fully automated setup of the ESP-IDF and ESP-Matter SDKs.
 
